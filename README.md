@@ -34,5 +34,4 @@ Image: https://grad.admissions.uiowa.edu/sites/grad.admissions.uiowa.edu/files/s
 
 ## Files Used
 
-Pentacrest Image from the University of Iowa
-My resume
+Pentacrest Image from the University of Iowa and Luca Engel resume
