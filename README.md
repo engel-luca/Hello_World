@@ -18,7 +18,6 @@
 - [DESCRIPTION](#Description)
 - [TOOLS USED](#Tools-Used)
 - [FILES USED](#Files-Used)
-- [HOW TO RUN PROGRAM](#How-to-Run-Program)
 - [Additional Information](#Additional-Information)
 
 ## Project Title
@@ -31,9 +30,9 @@ Practice using GitHub by creating a repository. Add a description to help others
 
 ## Tools Used
 
-Discuss all programming languages/tools used including Python, SQL, Excel, Power BI, Websites, etc
+Image: https://grad.admissions.uiowa.edu/sites/grad.admissions.uiowa.edu/files/styles/ultrawide__1312_x_562/public/2022-02/2021_09_27-Pentacrest%20Dusk%20and%20Blue%20Hour%20Drone%2C%20Sept%202021%20jatorner%20-0108.jpg?h=552c22ea&itok=mbrkcZ2r
 
 ## Files Used
 
-- Data files used?
-- List filenames
+Pentacrest Image from the University of Iowa
+My resume
