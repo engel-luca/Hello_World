@@ -26,7 +26,7 @@
 
 ## Description
 
-Practice using GitHub by creating a repository. Add a description to help others understand your project. Explain in detail what you did in this project, what you accomplished, outcomes, results, etc. Couple of paragraphs
+Practice using GitHub by creating a repository. Uploaded an image and my resume for practice.
 
 ## Tools Used
 
